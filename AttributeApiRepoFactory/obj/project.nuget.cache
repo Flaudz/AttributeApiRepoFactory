@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TtRGtnk26Ms=",
+  "dgSpecHash": "tb/HzPEMdsA=",
   "success": true,
   "projectFilePath": "C:\\Users\\NicolajSylvesterThyg\\Source\\Repositories\\TestProjects\\AttributeApiRepoFactory\\AttributeApiRepoFactory\\AttributeApiRepoFactory.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\NicolajSylvesterThyg\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\NicolajSylvesterThyg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\NicolajSylvesterThyg\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
